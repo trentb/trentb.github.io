@@ -451,8 +451,8 @@ header {
 .services-img,
 .work-img,
 .gallery {
-  background-size: cover;
-  background-position: center center;
+  background-size: contain;
+  background-position: 50% 75%;
   background-repeat: no-repeat;
   position: relative; }
 
